@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: transparent;
+  --color-foreground: #000000;
+  --color-primary: rgb(247, 59, 32);
+  --color-primary-foreground: #ffffff;
+  --color-secondary: #f3f4f6;
+  --color-accent: rgb(247, 59, 32);
+  --color-border: rgba(0, 0, 0, 0.05);
+  --font-sans: "Outfit", sans-serif;
+  --font-display: "Syne", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground antialiased selection:bg-primary/20 selection:text-primary;
+    overflow-x: hidden;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-bold tracking-tight lowercase;
+    font-weight: 900;
+  }
+}
+
+.jeton-gradient {
+  background: linear-gradient(135deg, #f73b20 0%, #ff7a60 50%, #f73b20 100%);
+}
+
+.pill-nav {
+  @apply fixed bottom-8 left-1/2 -translate-x-1/2 z-50 px-2 py-2 rounded-full backdrop-blur-2xl bg-black/80 border border-white/10 flex items-center gap-1 shadow-2xl;
+}
+
+.pill-nav-item {
+  @apply px-5 py-2 rounded-full text-sm font-medium transition-all text-white/60 hover:text-white hover:bg-white/10;
+}
+
+.pill-nav-item.active {
+  @apply bg-white text-black hover:bg-white;
+}
+
+.massive-heading {
+  font-size: clamp(2.5rem, 10vw, 8rem);
+  @apply leading-[0.9] font-black lowercase tracking-tighter;
+}
+
+.reveal-up {
+  @apply opacity-0 translate-y-8;
+  view-timeline-name: --reveal;
+  view-timeline-axis: block;
+  animation-name: reveal;
+  animation-fill-mode: both;
+  animation-timeline: --reveal;
+  animation-range: entry 10% cover 25%;
+  animation-duration: 1s;
+  animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.soft-3d-shadow {
+  box-shadow:
+    0 20px 50px -10px rgba(0, 0, 0, 0.1),
+    0 10px 30px -15px rgba(0, 0, 0, 0.05);
+}
+
+html.lenis {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.bg-dot-pattern {
+  background-image: radial-gradient(rgba(0, 0, 0, 0.1) 1px, transparent 1px);
+  background-size: 24px 24px;
+}

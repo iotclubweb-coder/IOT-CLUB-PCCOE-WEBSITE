@@ -1,0 +1,210 @@
+{
+  "public/videos/neural.mp4": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/video/upload/v1773729951/iot-club/videos/neural.mp4",
+    "public_id": "iot-club/videos/neural"
+  },
+  "public/videos/microchip.mp4": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/video/upload/v1773729970/iot-club/videos/microchip.mp4",
+    "public_id": "iot-club/videos/microchip"
+  },
+  "public/videos/loading.mp4.webm": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/video/upload/v1773729978/iot-club/videos/loading.mp4.webm",
+    "public_id": "iot-club/videos/loading.mp4"
+  },
+  "public/videos/loading.mp4": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/video/upload/v1773729984/iot-club/videos/loading.mp4",
+    "public_id": "iot-club/videos/loading"
+  },
+  "public/videos/abstract.mp4": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/video/upload/v1773729989/iot-club/videos/abstract.mp4",
+    "public_id": "iot-club/videos/abstract"
+  },
+  "src/assets/vite.svg": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773729990/iot-club/assets/vite.svg",
+    "public_id": "iot-club/assets/vite"
+  },
+  "src/assets/react.svg": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773729992/iot-club/assets/react.svg",
+    "public_id": "iot-club/assets/react"
+  },
+  "src/assets/hero.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773729995/iot-club/assets/hero.png",
+    "public_id": "iot-club/assets/hero"
+  },
+  "public/vite.svg": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773729996/iot-club/public/vite.svg",
+    "public_id": "iot-club/public/vite"
+  },
+  "public/favicon.svg": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730000/iot-club/public/favicon.svg",
+    "public_id": "iot-club/public/favicon"
+  },
+  "public/models/apple_vision_pro/textures/ySrzecxrjVirfze_specularf0.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730069/iot-club/models/apple_vision_pro/textures/ySrzecxrjVirfze_specularf0.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/ySrzecxrjVirfze_specularf0"
+  },
+  "public/models/apple_vision_pro/textures/ySrzecxrjVirfze_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730070/iot-club/models/apple_vision_pro/textures/ySrzecxrjVirfze_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/ySrzecxrjVirfze_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/xYIhbFReGzikXuj_specularf0.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730072/iot-club/models/apple_vision_pro/textures/xYIhbFReGzikXuj_specularf0.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/xYIhbFReGzikXuj_specularf0"
+  },
+  "public/models/apple_vision_pro/textures/xYIhbFReGzikXuj_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730073/iot-club/models/apple_vision_pro/textures/xYIhbFReGzikXuj_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/xYIhbFReGzikXuj_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/uCIAdpMWlBjnYvL_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730413/iot-club/models/apple_vision_pro/textures/uCIAdpMWlBjnYvL_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/uCIAdpMWlBjnYvL_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/svovjBXowKlgbKD_specularf0.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730414/iot-club/models/apple_vision_pro/textures/svovjBXowKlgbKD_specularf0.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/svovjBXowKlgbKD_specularf0"
+  },
+  "public/models/apple_vision_pro/textures/svovjBXowKlgbKD_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730416/iot-club/models/apple_vision_pro/textures/svovjBXowKlgbKD_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/svovjBXowKlgbKD_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/svoioOWqcyuDHRV_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730418/iot-club/models/apple_vision_pro/textures/svoioOWqcyuDHRV_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/svoioOWqcyuDHRV_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/sWxIuDoQFWtTiiB_specularf0.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730419/iot-club/models/apple_vision_pro/textures/sWxIuDoQFWtTiiB_specularf0.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/sWxIuDoQFWtTiiB_specularf0"
+  },
+  "public/models/apple_vision_pro/textures/sWxIuDoQFWtTiiB_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730420/iot-club/models/apple_vision_pro/textures/sWxIuDoQFWtTiiB_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/sWxIuDoQFWtTiiB_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/pMiARQLBeNgKOAx_specularf0.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730421/iot-club/models/apple_vision_pro/textures/pMiARQLBeNgKOAx_specularf0.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/pMiARQLBeNgKOAx_specularf0"
+  },
+  "public/models/apple_vision_pro/textures/oRyqyBedXgltlyh_specularf0.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730422/iot-club/models/apple_vision_pro/textures/oRyqyBedXgltlyh_specularf0.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/oRyqyBedXgltlyh_specularf0"
+  },
+  "public/models/apple_vision_pro/textures/nirjontYTAixgEJ_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730424/iot-club/models/apple_vision_pro/textures/nirjontYTAixgEJ_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/nirjontYTAixgEJ_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/msHgsHSWlHxyhfo_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730425/iot-club/models/apple_vision_pro/textures/msHgsHSWlHxyhfo_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/msHgsHSWlHxyhfo_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/lagreFFLwlIcTJO_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730426/iot-club/models/apple_vision_pro/textures/lagreFFLwlIcTJO_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/lagreFFLwlIcTJO_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/lZazJJAwgeaFFzW_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730430/iot-club/models/apple_vision_pro/textures/lZazJJAwgeaFFzW_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/lZazJJAwgeaFFzW_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/kPwwriYXUEalYIj_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730431/iot-club/models/apple_vision_pro/textures/kPwwriYXUEalYIj_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/kPwwriYXUEalYIj_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/kEEsgKvKWifaKeg_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730432/iot-club/models/apple_vision_pro/textures/kEEsgKvKWifaKeg_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/kEEsgKvKWifaKeg_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/hzzIZvnSVXHRIpk_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730439/iot-club/models/apple_vision_pro/textures/hzzIZvnSVXHRIpk_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/hzzIZvnSVXHRIpk_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/hjAUwLwBADKDzhk_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730440/iot-club/models/apple_vision_pro/textures/hjAUwLwBADKDzhk_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/hjAUwLwBADKDzhk_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/gFHmZYZAcTzegfV_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730442/iot-club/models/apple_vision_pro/textures/gFHmZYZAcTzegfV_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/gFHmZYZAcTzegfV_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/XNhEODEcVemrRSu_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730443/iot-club/models/apple_vision_pro/textures/XNhEODEcVemrRSu_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/XNhEODEcVemrRSu_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/XNhEODEcVemrRSu_baseColor.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730444/iot-club/models/apple_vision_pro/textures/XNhEODEcVemrRSu_baseColor.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/XNhEODEcVemrRSu_baseColor"
+  },
+  "public/models/apple_vision_pro/textures/XHmyiGBFGvanMAr_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730445/iot-club/models/apple_vision_pro/textures/XHmyiGBFGvanMAr_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/XHmyiGBFGvanMAr_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/WicotZnvNvRZKUL_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730446/iot-club/models/apple_vision_pro/textures/WicotZnvNvRZKUL_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/WicotZnvNvRZKUL_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/RWqkxBAMyYvCfAW_specularf0.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730448/iot-club/models/apple_vision_pro/textures/RWqkxBAMyYvCfAW_specularf0.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/RWqkxBAMyYvCfAW_specularf0"
+  },
+  "public/models/apple_vision_pro/textures/RWqkxBAMyYvCfAW_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730449/iot-club/models/apple_vision_pro/textures/RWqkxBAMyYvCfAW_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/RWqkxBAMyYvCfAW_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/QqwPOMufQnLHpVb_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730450/iot-club/models/apple_vision_pro/textures/QqwPOMufQnLHpVb_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/QqwPOMufQnLHpVb_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/OcjoBBhHkqmGEeg_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730450/iot-club/models/apple_vision_pro/textures/OcjoBBhHkqmGEeg_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/OcjoBBhHkqmGEeg_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/NLXCMSpYzHeRKCy_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730453/iot-club/models/apple_vision_pro/textures/NLXCMSpYzHeRKCy_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/NLXCMSpYzHeRKCy_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/NJTstBdwEqVPDBG_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730454/iot-club/models/apple_vision_pro/textures/NJTstBdwEqVPDBG_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/NJTstBdwEqVPDBG_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/NHDhsOMHMgThpCN_specularf0.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730455/iot-club/models/apple_vision_pro/textures/NHDhsOMHMgThpCN_specularf0.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/NHDhsOMHMgThpCN_specularf0"
+  },
+  "public/models/apple_vision_pro/textures/NHDhsOMHMgThpCN_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730458/iot-club/models/apple_vision_pro/textures/NHDhsOMHMgThpCN_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/NHDhsOMHMgThpCN_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/LrbPxjZrLaPVhbL_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730460/iot-club/models/apple_vision_pro/textures/LrbPxjZrLaPVhbL_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/LrbPxjZrLaPVhbL_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/LlnrRvRtBSKKJtZ_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730462/iot-club/models/apple_vision_pro/textures/LlnrRvRtBSKKJtZ_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/LlnrRvRtBSKKJtZ_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/IUXXlUlgvhvFPzz_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730463/iot-club/models/apple_vision_pro/textures/IUXXlUlgvhvFPzz_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/IUXXlUlgvhvFPzz_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/HAvYQJgmRpVYpqr_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730464/iot-club/models/apple_vision_pro/textures/HAvYQJgmRpVYpqr_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/HAvYQJgmRpVYpqr_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/GevKBvqYjYnmUWP_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730465/iot-club/models/apple_vision_pro/textures/GevKBvqYjYnmUWP_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/GevKBvqYjYnmUWP_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/FFhjkYvBaxmGeMa_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730467/iot-club/models/apple_vision_pro/textures/FFhjkYvBaxmGeMa_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/FFhjkYvBaxmGeMa_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/FEdJjbtHQhrLkPc_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730468/iot-club/models/apple_vision_pro/textures/FEdJjbtHQhrLkPc_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/FEdJjbtHQhrLkPc_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/CzTcyZGBTOTEuIC_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730469/iot-club/models/apple_vision_pro/textures/CzTcyZGBTOTEuIC_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/CzTcyZGBTOTEuIC_metallicRoughness"
+  },
+  "public/models/apple_vision_pro/textures/AjnVirXQeiPgFmd_metallicRoughness.png": {
+    "url": "https://res.cloudinary.com/dtqjebjt1/image/upload/v1773730472/iot-club/models/apple_vision_pro/textures/AjnVirXQeiPgFmd_metallicRoughness.png",
+    "public_id": "iot-club/models/apple_vision_pro/textures/AjnVirXQeiPgFmd_metallicRoughness"
+  }
+}
