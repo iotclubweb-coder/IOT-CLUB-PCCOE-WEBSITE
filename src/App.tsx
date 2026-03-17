@@ -8,6 +8,11 @@ import Navbar from './components/layout/Navbar'
 import LoadingScreen from './components/layout/LoadingScreen'
 import ScrollSection from './components/layout/ScrollSection'
 import Footer from './components/layout/Footer'
+import { useGLTF } from '@react-three/drei'
+
+// Preload models early
+useGLTF.preload('/models/dji_fpv/scene.gltf')
+useGLTF.preload('/models/apple_vision_pro/scene.gltf')
 
 // Pages
 import Home from './pages/Home'

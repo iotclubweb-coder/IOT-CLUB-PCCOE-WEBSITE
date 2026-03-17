@@ -1,9 +1,9 @@
 
 import { Canvas, useFrame } from '@react-three/fiber'
-import { Environment, Center, ContactShadows, useGLTF, Float, OrbitControls } from '@react-three/drei'
+import { Environment, Center, ContactShadows, useGLTF, Float, OrbitControls, Html } from '@react-three/drei'
 import { ArrowRight, ChevronLeft, ChevronRight } from 'lucide-react'
 import { AnimatePresence, motion } from 'framer-motion'
-import { useRef, useEffect, useState } from 'react'
+import { useRef, useEffect, useState, Suspense } from 'react'
 import * as THREE from 'three'
 import gsap from 'gsap'
 import { useGSAP } from '@gsap/react'
@@ -83,6 +83,17 @@ useGLTF.preload('/models/dji_fpv/scene.gltf')
 useGLTF.preload('/models/apple_vision_pro/scene.gltf')
 
 // Scene component removed as we use AnimatedModelSwitch now
+
+function ModelLoader() {
+    return (
+        <Html center>
+            <div className="flex flex-col items-center gap-2 pointer-events-none">
+                <div className="w-8 h-8 border-2 border-primary/20 border-t-primary rounded-full animate-spin" />
+                <span className="text-[10px] font-bold uppercase tracking-widest text-primary/40">Loading Model</span>
+            </div>
+        </Html>
+    )
+}
 
 function AnimatedModelSwitch({ project }: { project: Project }) {
     const groupRef = useRef<THREE.Group>(null)
@@ -248,7 +259,9 @@ export default function Sustainability() {
                     >
                         <group position={[0, 0, 0]}>
                             {/* Model content switched via internal component */}
-                            <AnimatedModelSwitch project={project} />
+                            <Suspense fallback={<ModelLoader />}>
+                                <AnimatedModelSwitch project={project} />
+                            </Suspense>
 
                             {/* Reduced ContactShadows resolution for performance */}
                             <ContactShadows opacity={0.4} scale={20} blur={2.5} far={10} resolution={128} color="#000000" />

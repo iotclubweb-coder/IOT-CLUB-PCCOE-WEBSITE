@@ -1,4 +1,4 @@
-import { lazy, Suspense } from 'react'
+import { lazy } from 'react'
 import Hero from '../components/layout/Hero'
 import ScrollSection from '../components/layout/ScrollSection'
 import ScrollingMarquee from '../components/layout/ScrollingMarquee'
@@ -18,9 +18,7 @@ export default function Home() {
             </ScrollSection>
 
             <ScrollSection>
-                <Suspense fallback={<div className="h-[800px] flex items-center justify-center bg-secondary">Loading Scene...</div>}>
-                    <Sustainability />
-                </Suspense>
+                <Sustainability />
             </ScrollSection>
 
             <ScrollingMarquee
@@ -29,9 +27,7 @@ export default function Home() {
             />
 
             <ScrollSection>
-                <Suspense fallback={<div className="h-screen flex items-center justify-center bg-secondary">Loading Events...</div>}>
-                    <Events />
-                </Suspense>
+                <Events />
             </ScrollSection>
 
 
